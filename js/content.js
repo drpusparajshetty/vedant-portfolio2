@@ -32,7 +32,7 @@ window.SITE = {
       { value: "2026", label: "Open National Champion" },
       { value: "CM",   label: "Conditional title, FIDE" },
       { value: "5–0",  label: "As team captain, twice" },
-      { value: "4×",   label: "Science fair, best project" }
+      { value: "4×",   label: "Science fair, best outstanding project" }
     ]
   },
 
@@ -46,15 +46,14 @@ window.SITE = {
   /* ---------- THE NATIONAL RECORD (scoresheet) ---------- */
   record: {
     eyebrow: "The national record",
-    heading: "Five seasons, written like a scoresheet.",
+    heading: "Four seasons, written like a scoresheet.",
     intro: "Under-18 national champion of Saint Vincent and the Grenadines three years running — then, in 2025, winner of the open category to become the overall national champion.",
     introLink: { text: "Verified on Wikipedia", url: "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines_Chess_Championship" },
     rows: [
       { year: "2022", event: "SVG National Championship",        result: "U18 Champion" },
       { year: "2023", event: "SVG National Championship",        result: "U18 Champion" },
       { year: "2024", event: "SVG National Championship",        result: "U18 Champion · 2nd, Adult Open" },
-      { year: "2025", event: "SVG National Championship",        result: "Overall Champion — Open", strong: true },
-      { year: "2026", event: "Tyrone Jack Memorial Open",        result: "Champion", link: { text: "press", url: "https://www.searchlight.vc/sports/2026/01/23/vedant-shetty-tops-chess-tournament/" } }
+      { year: "2025", event: "SVG National Championship",        result: "Overall Champion — Open", strong: true , link: { text: "press", url: "https://www.searchlight.vc/sports/2026/01/23/vedant-shetty-tops-chess-tournament/" }},
     ],
     photos: [
       { img: "assets/images/trophy-2022.jpg",   caption: "2022 · The first title, age six" },

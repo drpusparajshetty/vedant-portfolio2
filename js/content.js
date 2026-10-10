@@ -212,7 +212,6 @@ window.SITE = {
         title: "“Is Global Warming Real?”",
         text: "Best outstanding project, lower primary category.",
         links: [{ text: "Project Video", url: "https://youtu.be/g67csTiCtS4" }{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=670483091415438" }]  
-
       },
        {
         img: "assets/images/science-potato.jpg",

@@ -30,7 +30,7 @@ window.SITE = {
     photo: "assets/images/portrait.jpg",
     stats: [
       { value: "2026", label: "Open National Champion" },
-      { value: "CM",   label: "Conditional title, FIDE" },
+      { value: "CM",   label: "Title, FIDE" },
       { value: "5–0",  label: "As team captain, twice" },
       { value: "4×",   label: "Science fair, best outstanding project" }
     ]
@@ -58,7 +58,7 @@ window.SITE = {
     photos: [
       { img: "assets/images/trophy-2022.jpg",   caption: "2022 · The first title, age six" },
       { img: "assets/images/champion-2025.jpg", caption: "2025 · Overall national champion, with the adult field" },
-      { img: "assets/images/trophies-2025.jpg", caption: "“The game is just begin-ning.”" }
+      { img: "assets/images/trophies-2025.jpg", caption: "“The game is just beginning.”" }
     ]
   },
 
@@ -71,11 +71,19 @@ window.SITE = {
     cards: [
       {
         img: "assets/images/podium-elsalvador.jpg",
-        tag: "Gold ×2 · CM title",
-        where: "El Salvador · 2024 · U8 Open",
-        title: "CAC Youth Festival — double gold",
-        text: "Gold absolute and gold in blitz, earning a conditional Candidate Master title — SVG's first CAC medal in the festival's nineteen years.",
-        links: [{ text: "Press", url: "https://www.searchlight.vc/sports/2024/08/09/player-returns-gold-for-svg-in-americas-chess-festival/" }]
+        tag: "Olympiad · CM title",
+        where: "Samarkand · 2026 · Open Team",
+        title: "FIDE Chess Olympiad — 5/10 CM title",
+        text: "Youngest player in the Open Team, earning Candidate Master title — Youngest candidate master in the Caribbean.",
+        links: [{ text: "Press", url: "https://www.stvincenttimes.com/vincentian-10-yro-earns-candidate-master-title-in-chess/" }]
+      },
+      {
+        img: "assets/images/podium-elsalvador.jpg",
+        tag: "Silver· CM title",
+        where: "Medillin, Colombia · 2026 · U10 Open",
+        title: "Pan-American Youth — Silver, Standard",
+        text: "Silver in Standard, earning a conditional Candidate Master title — Only player from the Caribbean to have a podium finish.",
+        links: [{ text: "Press", url: "https://www.stvincenttimes.com/vincy-is-only-caribbean-player-to-reach-the-americas-premier-ycc/" }]
       },
       {
         img: "assets/images/podium-puertorico.jpg",
@@ -92,6 +100,14 @@ window.SITE = {
         title: "Pan-American Youth — bronze, rapid",
         text: "Third in the rapid category — the only Caribbean player to win a trophy.",
         links: [{ text: "Press", url: "https://www.searchlight.vc/sports/2025/08/08/svg-rep-podium-position-35th-pan-american-youth-chess-championship/" }]
+      },
+      {
+        img: "assets/images/podium-elsalvador.jpg",
+        tag: "Gold ×2 · CM title",
+        where: "El Salvador · 2024 · U8 Open",
+        title: "CAC Youth Festival — double gold",
+        text: "Gold absolute and gold in blitz, earning a conditional Candidate Master title — SVG's first CAC medal in the festival's nineteen years.",
+        links: [{ text: "Press", url: "https://www.searchlight.vc/sports/2024/08/09/player-returns-gold-for-svg-in-americas-chess-festival/" }]
       },
       {
         img: "assets/images/panam-orlando.jpg",

@@ -78,7 +78,7 @@ window.SITE = {
         links: [{ text: "Press", url: "https://www.stvincenttimes.com/vincentian-10-yro-earns-candidate-master-title-in-chess/" }]
       },
       {
-        img: "assets/images/medellin2026.jpg",
+        img: "assets/images/medellin2026.jpeg",
         tag: "Silver· CM title",
         where: "Medillin, Colombia · 2026 · U10 Open",
         title: "Pan-American Youth — Silver, Standard",

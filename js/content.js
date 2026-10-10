@@ -195,8 +195,7 @@ window.SITE = {
         where: "National science fair · Lower primary",
         title: "“Hydrogen car”",
         text: "Best outstanding project, lower primary category.",
-        links: [{ text: "Project Video", url: "https://youtu.be/fudwmU3jhlA" }]  
-        links: [{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=1091890895440711" }]
+        links: [{ text: "Project Video", url: "https://youtu.be/fudwmU3jhlA" }{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=1091890895440711" }]  
       },
       {
         img: "assets/images/science-roof.jpg",
@@ -204,8 +203,7 @@ window.SITE = {
         where: "National science fair · Higher primary",
         title: "“Which colour roof keeps the house coolest?”",
         text: "Best outstanding project — followed in 2026 by “Hydrogen Car”, which won again.",
-        links: [{ text: "Project Video", url: "https://youtu.be/vcGoeVux6RY" }]  
-        links: [{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=1091890895440711" }]
+        links: [{ text: "Project Video", url: "https://youtu.be/vcGoeVux6RY" }{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=1091890895440711" }]  
       },
       {
         img: "assets/images/science-globalwarming.jpg",
@@ -213,8 +211,7 @@ window.SITE = {
         where: "National science fair · Lower primary",
         title: "“Is Global Warming Real?”",
         text: "Best outstanding project, lower primary category.",
-        links: [{ text: "Project Video", url: "https://youtu.be/g67csTiCtS4" }]  
-        links: [{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=670483091415438" }]
+        links: [{ text: "Project Video", url: "https://youtu.be/g67csTiCtS4" }{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=670483091415438" }]  
 
       },
        {
@@ -223,8 +220,7 @@ window.SITE = {
         where: "National science fair · Primary",
         title: "“Potato Battery”",
         text: "Best outstanding project, primary category.",
-        links: [{ text: "Project Video", url: "https://www.facebook.com/watch/?v=425841232915379" }]  
-        links: [{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=670483091415438" }]
+        links: [{ text: "Project Video", url: "https://www.facebook.com/watch/?v=425841232915379" }{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=670483091415438" }]  
       },
       {
         img: "assets/images/eccb-stamp.jpg",

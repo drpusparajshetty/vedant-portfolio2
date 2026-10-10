@@ -157,7 +157,7 @@ window.SITE = {
     intro: "Best outstanding project at the national science fair in 2022, 2023, 2024 and 2026 — with a regional environmental science silver alongside.",
     cards: [
       {
-        img: "assets/images/science-potato.jpg",
+        img: "assets/images/Mathsprice.jpeg",
         tag: "2026 · Hachette National Mathematics Quiz",
         where: "Hachette National Mathematics Quiz · Primary",
         title: "“Maths Champ”",

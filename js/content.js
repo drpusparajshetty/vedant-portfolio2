@@ -70,7 +70,7 @@ window.SITE = {
     intro: "Podium finishes at the Central American & Caribbean Youth Chess Festival and the Pan-American Youth Championship — often as the lone player carrying the Vincentian flag.",
     cards: [
       {
-        img: "assets/images/podium-elsalvador.jpg",
+        img: "assets/images/olmpiad2026.jpeg",
         tag: "Olympiad · CM title",
         where: "Samarkand · 2026 · Open Team",
         title: "FIDE Chess Olympiad — 5/10 CM title",
@@ -78,7 +78,7 @@ window.SITE = {
         links: [{ text: "Press", url: "https://www.stvincenttimes.com/vincentian-10-yro-earns-candidate-master-title-in-chess/" }]
       },
       {
-        img: "assets/images/podium-elsalvador.jpg",
+        img: "assets/images/medellin2026.jpg",
         tag: "Silver· CM title",
         where: "Medillin, Colombia · 2026 · U10 Open",
         title: "Pan-American Youth — Silver, Standard",

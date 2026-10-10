@@ -79,7 +79,7 @@ window.SITE = {
       },
       {
         img: "assets/images/medellin2026.jpeg",
-        tag: "Silver· CM title",
+        tag: "Silver· U10 Standard",
         where: "Medillin, Colombia · 2026 · U10 Open",
         title: "Pan-American Youth — Silver, Standard",
         text: "Silver in Standard, earning a conditional Candidate Master title — Only player from the Caribbean to have a podium finish.",
@@ -178,39 +178,7 @@ window.SITE = {
         where: "Hachette National Mathematics Quiz · Primary",
         title: "“Maths Champ”",
         text: "First Place, primary category.",
-        links: [{ text: "St. Vincent Times", url: "https://www.stvincenttimes.com/calliaqua-anglican-wins-grade-5-mathematics-quiz/?fbclid=IwY2xjawU2XWFleHRuA2FlbQIxMQBwZG9mBWJyaWQRMUJFVnBZVzVJYTlEVmVKdTFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3D-nChXJ-6vvCFAaoxK4mrFw2eEyDpr1Lg-_HSWa_CGmp1vuOnRnLg_Um_Y_aem_LOnKlIfuoJX445r52BCbUA" }]   /* add the online video link here when you have it */
-      },
-      {
-        img: "assets/images/science-globalwarming.jpg",
-        tag: "2025 · Best project",
-        where: "National science fair · Lower primary",
-        title: "“Hydrogen car”",
-        text: "Best outstanding project, lower primary category.",
-        links: []
-      },
-      {
-        img: "assets/images/science-roof.jpg",
-        tag: "2024 · Best project",
-        where: "National science fair · Higher primary",
-        title: "“Which colour roof keeps the house coolest?”",
-        text: "Best outstanding project — followed in 2026 by “Hydrogen Car”, which won again.",
-        links: []
-      },
-      {
-        img: "assets/images/science-globalwarming.jpg",
-        tag: "2023 · Best project",
-        where: "National science fair · Lower primary",
-        title: "“Is Global Warming Real?”",
-        text: "Best outstanding project, lower primary category.",
-        links: []
-      },
-       {
-        img: "assets/images/science-potato.jpg",
-        tag: "2022 · Best project",
-        where: "National science fair · Primary",
-        title: "“Potato Battery”",
-        text: "Best outstanding project, primary category.",
-        links: []   /* add the online video link here when you have it */
+        links: [{ text: "Media Link", url: "https://www.stvincenttimes.com/calliaqua-anglican-wins-grade-5-mathematics-quiz/?fbclid=IwY2xjawU2XWFleHRuA2FlbQIxMQBwZG9mBWJyaWQRMUJFVnBZVzVJYTlEVmVKdTFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3D-nChXJ-6vvCFAaoxK4mrFw2eEyDpr1Lg-_HSWa_CGmp1vuOnRnLg_Um_Y_aem_LOnKlIfuoJX445r52BCbUA" }]   /* add the online video link here when you have it */
       },
       {
         img: "assets/images/science-yes.jpg",
@@ -218,7 +186,45 @@ window.SITE = {
         where: "Macmillan Education · Regional",
         title: "Young Environmental Scientist",
         text: "Second place, primary category, with the SVG Wildlife Warriors.",
-        links: []
+        links: [{ text: "Project Video", url: "https://youtu.be/tyo1M95TsCg" }]  
+        links: [{ text: "Media link", url: "https://macmillan-caribbean.com/blogs/article/yes-competition-2025-26-results" }]
+      },
+      {
+        img: "assets/images/science-globalwarming.jpg",
+        tag: "2025 · Best project",
+        where: "National science fair · Lower primary",
+        title: "“Hydrogen car”",
+        text: "Best outstanding project, lower primary category.",
+        links: [{ text: "Project Video", url: "https://youtu.be/fudwmU3jhlA" }]  
+        links: [{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=1091890895440711" }]
+      },
+      {
+        img: "assets/images/science-roof.jpg",
+        tag: "2024 · Best project",
+        where: "National science fair · Higher primary",
+        title: "“Which colour roof keeps the house coolest?”",
+        text: "Best outstanding project — followed in 2026 by “Hydrogen Car”, which won again.",
+        links: [{ text: "Project Video", url: "https://youtu.be/vcGoeVux6RY" }]  
+        links: [{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=1091890895440711" }]
+      },
+      {
+        img: "assets/images/science-globalwarming.jpg",
+        tag: "2023 · Best project",
+        where: "National science fair · Lower primary",
+        title: "“Is Global Warming Real?”",
+        text: "Best outstanding project, lower primary category.",
+        links: [{ text: "Project Video", url: "https://youtu.be/g67csTiCtS4" }]  
+        links: [{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=670483091415438" }]
+
+      },
+       {
+        img: "assets/images/science-potato.jpg",
+        tag: "2022 · Best project",
+        where: "National science fair · Primary",
+        title: "“Potato Battery”",
+        text: "Best outstanding project, primary category.",
+        links: [{ text: "Project Video", url: "https://www.facebook.com/watch/?v=425841232915379" }]  
+        links: [{ text: "Interview Video", url: "https://www.facebook.com/watch/?v=670483091415438" }]
       },
       {
         img: "assets/images/eccb-stamp.jpg",

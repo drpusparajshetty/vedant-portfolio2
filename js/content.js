@@ -158,17 +158,17 @@ window.SITE = {
     cards: [
       {
         img: "assets/images/science-potato.jpg",
-        tag: "2022 · Best project",
-        where: "National science fair · Primary",
-        title: "“Potato Battery”",
-        text: "Best outstanding project, primary category.",
-        links: []   /* add the online video link here when you have it */
+        tag: "2026 · Hachette National Mathematics Quiz",
+        where: "Hachette National Mathematics Quiz · Primary",
+        title: "“Maths Champ”",
+        text: "First Place, primary category.",
+        links: [{ text: "St. Vincent Times", url: "https://www.stvincenttimes.com/calliaqua-anglican-wins-grade-5-mathematics-quiz/?fbclid=IwY2xjawU2XWFleHRuA2FlbQIxMQBwZG9mBWJyaWQRMUJFVnBZVzVJYTlEVmVKdTFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3D-nChXJ-6vvCFAaoxK4mrFw2eEyDpr1Lg-_HSWa_CGmp1vuOnRnLg_Um_Y_aem_LOnKlIfuoJX445r52BCbUA" }]   /* add the online video link here when you have it */
       },
       {
         img: "assets/images/science-globalwarming.jpg",
-        tag: "2023 · Best project",
+        tag: "2025 · Best project",
         where: "National science fair · Lower primary",
-        title: "“Is Global Warming Real?”",
+        title: "“Hydrogen car”",
         text: "Best outstanding project, lower primary category.",
         links: []
       },
@@ -179,6 +179,22 @@ window.SITE = {
         title: "“Which colour roof keeps the house coolest?”",
         text: "Best outstanding project — followed in 2026 by “Hydrogen Car”, which won again.",
         links: []
+      },
+      {
+        img: "assets/images/science-globalwarming.jpg",
+        tag: "2023 · Best project",
+        where: "National science fair · Lower primary",
+        title: "“Is Global Warming Real?”",
+        text: "Best outstanding project, lower primary category.",
+        links: []
+      },
+       {
+        img: "assets/images/science-potato.jpg",
+        tag: "2022 · Best project",
+        where: "National science fair · Primary",
+        title: "“Potato Battery”",
+        text: "Best outstanding project, primary category.",
+        links: []   /* add the online video link here when you have it */
       },
       {
         img: "assets/images/science-yes.jpg",
@@ -194,7 +210,7 @@ window.SITE = {
         where: "Eastern Caribbean Central Bank",
         title: "40th anniversary stamp design",
         text: "Winner of the 5–11 category across the Eastern Caribbean.",
-        links: []
+        links: [{ text: "Press", url: "https://www.stvincenttimes.com/vedant-shetty-of-svg-won-the-eccb-stamp-contest-in-the-5-11-age-group/?fbclid=IwY2xjawU2YTpleHRuA2FlbQIxMQBwZG9mBWJyaWQRMWhNdjBJemhFeVRQaFJuc3dzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeD11Px_k4GGo72Wdot9Drmw-tEvuDQptK1jGpscTL_lEA9cbZePiwfdLtF2M_aem_OJ8jXOwUYinlaUoxu0Xi7w" }]
       },
       {
         img: "assets/images/planet-video.jpg",
@@ -202,7 +218,7 @@ window.SITE = {
         where: "Better Climate4MyHealth contest",
         title: "“A Planet in Peril and a Promise to Keep”",
         text: "Winning video entry.",
-        links: []
+        links: [{ text: "Video", url: "https://youtu.be/kHJgXGAzVdc" }]
       }
     ]
   },
@@ -215,11 +231,11 @@ window.SITE = {
     quoteSource: "Smile Jamaica · Television Jamaica",
     video: {
       img: "assets/images/tvj-interview.jpg",
-      url: "https://www.youtube.com/watch?v=tqolHt7idCg",
+      url: "https://www.facebook.com/smilejamtvj/posts/1355395396376284/",
       caption: "Watch the interview — TVJ Smile Jamaica, November 2025"
     },
     links: [
-      { text: "TVJ Smile Jamaica — Young Star Rising",           url: "https://www.youtube.com/watch?v=tqolHt7idCg" },
+      { text: "TVJ Smile Jamaica — Young Star Rising",           url: "https://www.facebook.com/smilejamtvj/posts/1355395396376284/" },
       { text: "Smile Jamaica — #CaribbeanCheckIn",               url: "https://www.facebook.com/smilejamtvj/posts/1355395396376284/" },
       { text: "St Vincent Times — double medal in Puerto Rico",  url: "https://www.stvincenttimes.com/st-vincent-chess-prodigy-vedant-shetty-central-american-caribbean-youth-chess-festival/" },
       { text: "Searchlight — Pan-American podium in Peru",       url: "https://www.searchlight.vc/sports/2025/08/08/svg-rep-podium-position-35th-pan-american-youth-chess-championship/" },

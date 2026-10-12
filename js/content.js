@@ -42,7 +42,26 @@ window.SITE = {
     { text: "Chess.com",     url: "https://www.chess.com/players/vedant-shetty" },
     { text: "Wikipedia",     url: "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines_Chess_Championship" }
   ],
-
+  /* ---------- MEDIA 1 ---------- */
+  media: {
+    eyebrow: "In the press",
+    heading: "“At the 2026 Chess Olympiad, Samarkand, Uzbekistan.”",
+    quote: "10-year-old Botvinnik fan wants to become a scientist.",
+    quoteSource: "YouTube",
+    video: {
+      img: "assets/images/tvj-interview.jpg",
+      url: "https://www.youtube.com/watch?v=GqM7UbZUh5c",
+      caption: "Watch the interview — Aditya Sur Roy, Youtube"
+    },
+    links: [
+      { text: "TVJ Smile Jamaica — Young Star Rising",           url: "https://www.facebook.com/smilejamtvj/posts/1355395396376284/" },
+      { text: "Smile Jamaica — #CaribbeanCheckIn",               url: "https://www.facebook.com/smilejamtvj/posts/1355395396376284/" },
+      { text: "St Vincent Times — double medal in Puerto Rico",  url: "https://www.stvincenttimes.com/st-vincent-chess-prodigy-vedant-shetty-central-american-caribbean-youth-chess-festival/" },
+      { text: "Searchlight — Pan-American podium in Peru",       url: "https://www.searchlight.vc/sports/2025/08/08/svg-rep-podium-position-35th-pan-american-youth-chess-championship/" },
+      { text: "Barbados Today — the region's top scorer",        url: "https://barbadostoday.bb/2024/07/24/del-castilho-kinged-in-corbin-chess-open/" },
+      { text: "Searchlight — Tyrone Jack Memorial champion",     url: "https://www.searchlight.vc/sports/2026/01/23/vedant-shetty-tops-chess-tournament/" }
+    ]
+  },
   /* ---------- THE NATIONAL RECORD (scoresheet) ---------- */
   record: {
     eyebrow: "The national record",

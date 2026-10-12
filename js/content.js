@@ -49,7 +49,7 @@ window.SITE = {
     quote: "10-year-old Botvinnik fan wants to become a scientist.",
     quoteSource: "YouTube",
     video: {
-      img: "assets/images/tvj-interview.jpg",
+      img: "assets/images/with vidit.png",
       url: "https://www.youtube.com/watch?v=GqM7UbZUh5c",
       caption: "Watch the interview — Aditya Sur Roy, Youtube"
     },

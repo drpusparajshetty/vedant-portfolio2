@@ -38,23 +38,6 @@
        </div>
      </article>`).join("") + `</div>`;
 
-     /* news */
-  $("#news").innerHTML = `<div class="wrap">
-    ${eyebrow(S.media.eyebrow)}
-    <h2 class="rv">${esc(S.media.heading)}</h2>
-    <div class="mediarow">
-      <a class="tv rv" href="${esc(S.media.video.url)}" target="_blank" rel="noopener" aria-label="Watch the interview">
-        <img src="${esc(S.media.video.img)}" alt="Television interview">
-        <span class="play"><i>▶</i></span>
-        <figcaption>${esc(S.media.video.caption)}</figcaption>
-      </a>
-      <div class="rv">
-        <blockquote>${esc(S.media.quote)}<footer>${esc(S.media.quoteSource)}</footer></blockquote>
-        <div class="presslist">${S.media.links.map(link).join("")}</div>
-      </div>
-    </div>
-  </div>`;
-
   /* record */
   $("#record").innerHTML = `<div class="wrap">
     ${eyebrow(S.record.eyebrow)}
